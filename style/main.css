@@ -110,3 +110,7 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top: 5px;
 }
+
+.carrosel-filmes div {
+    border-radius: 20px;
+}
